@@ -49,6 +49,7 @@ When you have created the index on the secondary, test with MongoProc to be sure
 mongo --nodb
 > var rst = new ReplSetTest ({name: 'testSet', nodes: 3});
 > rst.startSet();
+mongo --port 2000
 > rs.initiate();
 > rs.add("centos6.dev:20001")
 > rs.add("centos6.dev:20002")
