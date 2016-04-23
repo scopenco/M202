@@ -33,8 +33,7 @@ logAppend
 When you have your answer, please paste or type it into the box below, and submit. Unfortunately, case/capitalization matters here, so please enter the field name for the setting in question exactly how it appears in the logs.
 
 ### Answer
-Download [Handouts](https://raw.githubusercontent.com/wiki/scopenco/M202/handouts/5.1/configuration-issue-logs.tar.gz) and untar it. 
-(TODO Explanation)
+* Download [Handouts](https://raw.githubusercontent.com/wiki/scopenco/M202/handouts/5.1/configuration-issue-logs.tar.gz) and untar it.
 Answer is 'bindIp'.
 
 ## Homework: 5.2: Examining a Log File with Mtools 
